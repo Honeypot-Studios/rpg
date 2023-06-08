@@ -1,0 +1,55 @@
+Ideas:
+ - cooking
+  - saucier 
+	- splash damage, 
+	- effective against 
+  - butcher 
+	- generic heavy
+	- effective against 
+  - Station chef (de partie) 
+	- necromancer type beat
+	- summons minicooks
+	- effective against 
+  - Cook 
+	- intern type beat
+	- soldier76 type beat
+
+Enemy types:
+	- Drink type
+	- Pastry type
+	- Seafood type
+	- Breakfast type
+	- Dairy type
+	- Junk food type
+	- Fruit type
+	- Meat type
+
+  - Either singleplayer against monsters or passnplay 	
+  - 
+
+
+game loop:
+- one lore, one task, beat boss, win game
+- do a run
+- rooms grant experience, makes game easier, advance further each run 
+	- rooms give experience based on formula including the roomnumber
+
+
+
+fight:
+- go in
+- generate a room object (lore, generate monsterobject,)
+	- monsterobject (generate attack object on attack)
+- check speed 
+	- highest go first
+- let user know, start
+	- player has 4 moves, unlock at intervals 5 levels
+
+
+
+
+
+
+
+
+
