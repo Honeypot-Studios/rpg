@@ -1,2 +1,3 @@
-# rpg
-![BADGE]{https://github.com/Honeypot-Studios/rpg/actions/workflows/c-cpp.yml/badge.svg}
+# RPG
+![BADGE](https://github.com/Honeypot-Studios/rpg/actions/workflows/c-cpp.yml/badge.svg)
+
